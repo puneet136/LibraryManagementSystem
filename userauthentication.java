@@ -5,8 +5,8 @@ public class userauthentication {
     private static final Connection connection = DatabaseConnection.getConnection();
     static Scanner scanner = new Scanner(System.in);
 
-    private static final String SUPER_ADMIN_EMAIL = "puneetagrawalspu@gmail.com";
-    private static final String ADMIN_SECURITY_KEY = "ADMIN2025"; // Security key for Admin registration
+    private static final String SUPER_ADMIN_EMAIL = "Admin_Email";
+    private static final String ADMIN_SECURITY_KEY = "Secret_Key"; // Security key for Admin registration
 
     private static boolean isValidPassword(String password) {
         if (password.length() < 8) return false;
