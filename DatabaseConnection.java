@@ -5,9 +5,9 @@ import java.sql.SQLException;
 
 public class DatabaseConnection {
 
-    static String url = "jdbc:mysql://127.0.0.1:3306/Library";
-    static String username = "root";
-    static String password = "Pgarg#2113";
+    static String url = "jdbc:mysql://127.0.0.1:3306/databse_name";
+    static String username = "databse_username";
+    static String password = "Your SQL password";
 
     public static void main(String[] args) throws ClassNotFoundException {
 
