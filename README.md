@@ -14,7 +14,7 @@ The **Library Management System (LMS)** is a command-line-based application buil
 
 ## 🎯 Features
 
-✅ **User Authentication** (Librarians & Students)
+✅ **User Authentication** (Super Admin & Librarians & Students)
 ✅ **View Books** (Available & Issued)
 ✅ **Issue and Return Books**
 ✅ **Search Books by Title, Author, Genre**
