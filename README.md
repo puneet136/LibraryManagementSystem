@@ -93,5 +93,5 @@ This project is open-source and available under the **MIT License**. 
 
 ---
 
-🔗 **Connect with Me**: [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 **Connect with Me**: [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/puneet-agrawal)
 
